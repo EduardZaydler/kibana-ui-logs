@@ -1,6 +1,6 @@
 # kibanaSearchLogger
 
-Плагин для Kibana
+Плагин для сбора ui метрик Kibana
 
 ---
 
